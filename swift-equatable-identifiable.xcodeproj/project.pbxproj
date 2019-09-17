@@ -34,7 +34,6 @@
 		0F33EA0623319ACD00DBD484 /* Rewriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rewriter.swift; sourceTree = "<group>"; };
 		0F33EA0A2331A22100DBD484 /* VisitorStateMachine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisitorStateMachine.swift; sourceTree = "<group>"; };
 		0F33EA0C2331A2F800DBD484 /* Environnement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Environnement.swift; sourceTree = "<group>"; };
-		0F33EA0E2331A61F00DBD484 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +67,6 @@
 		0F33E9F12331803200DBD484 /* swift-equatable-identifiable */ = {
 			isa = PBXGroup;
 			children = (
-				0F33EA0E2331A61F00DBD484 /* README.md */,
 				0F33E9F22331803200DBD484 /* main.swift */,
 				0F33EA0423319AB700DBD484 /* Visitor.swift */,
 				0F33EA0623319ACD00DBD484 /* Rewriter.swift */,

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:swift-equatable-identifiable.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
